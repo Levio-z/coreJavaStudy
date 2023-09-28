@@ -1,0 +1,48 @@
+
+m
+java:S1192'"PDefine a constant instead of duplicating this literal "\uD83D\uDE00123" 4 times.(Â«†8ºËà¤1
+n	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æ¼Âğøÿÿÿÿ8ºËà¤1
+L	java:S106"+Replace this use of System.out by a logger.(£ı«Ÿøÿÿÿÿ8ÂËà¤1
+L	java:S106#"+Replace this use of System.out by a logger.(œ»İÿÿÿÿÿ8ÂËà¤1
+L	java:S106+"+Replace this use of System.out by a logger.(Ïø÷¿üÿÿÿÿ8ÂËà¤1
+L	java:S106,"+Replace this use of System.out by a logger.(£º¾¬øÿÿÿÿ8ÂËà¤1
+G	java:S106-"+Replace this use of System.out by a logger.(ŸÇğ‡8ÃËà¤1
+]	java:S1251"<This block of commented-out lines of code should be removed.(üùªüÿÿÿÿ8ÃËà¤1
+G	java:S106<"+Replace this use of System.out by a logger.(é—¶İ8ÃËà¤1
+G	java:S106A"+Replace this use of System.out by a logger.(˜äÏ8ÃËà¤1
+G	java:S106C"+Replace this use of System.out by a logger.(òôĞ£8ÃËà¤1
+G	java:S106J"+Replace this use of System.out by a logger.(è¿ó²8ÃËà¤1
+Y
+java:S1854O"7Remove this useless assignment to local variable "str".(Ã•Ú³ûÿÿÿÿ8ÃËà¤1
+J
+java:S1481O"(Remove this unused "str" local variable.(Ã•Ú³ûÿÿÿÿ8ÄËà¤1
+G	java:S106R"+Replace this use of System.out by a logger.(Áß‡Ü8ÄËà¤1
+G	java:S106S"+Replace this use of System.out by a logger.(¯ô¢ô8ÄËà¤1
+L	java:S106["+Replace this use of System.out by a logger.(ââÒŸşÿÿÿÿ8ÄËà¤1
+L	java:S106f"+Replace this use of System.out by a logger.(ââÒŸşÿÿÿÿ8ÄËà¤1
+L	java:S106h"+Replace this use of System.out by a logger.(ûÎ¶ìüÿÿÿÿ8ÄËà¤1
+G	java:S106p"+Replace this use of System.out by a logger.(ß§Êÿ8ÅËà¤1
+g
+java:S1764"ECorrect one of the identical sub-expressions on both sides of equals.(¼Æí´ÿÿÿÿÿ8ÆËà¤1
+G	java:S106€"+Replace this use of System.out by a logger.(°®>8ÆËà¤1
+G	java:S106‡"+Replace this use of System.out by a logger.(°®>8ÇËà¤1
+M	java:S106Š"+Replace this use of System.out by a logger.(‡•ğ¼ùÿÿÿÿ8ÇËà¤1
+H	java:S106Œ"+Replace this use of System.out by a logger.(È£íñ8ÇËà¤1
+M	java:S106“"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8ÇËà¤1
+H	java:S106”"+Replace this use of System.out by a logger.(à««Ë8ÇËà¤1
+M	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8ÇËà¤1
+H	java:S106"+Replace this use of System.out by a logger.(—Ş“8ÇËà¤1
+M	java:S106¥"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8ÇËà¤1
+M	java:S106«"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8ÈËà¤1
+M	java:S106³"+Replace this use of System.out by a logger.(ââÒŸşÿÿÿÿ8ÈËà¤1
+M	java:S106·"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8ÈËà¤1
+M	java:S106½"+Replace this use of System.out by a logger.(ôØÁÙüÿÿÿÿ8ÈËà¤1
+H	java:S106Ä"+Replace this use of System.out by a logger.(ú‘–×8ÈËà¤1
+W
+java:S1128":Remove this unused import 'com.sun.security.jgss.GSSUtil'.(¬é×‰8ßŞà¤1
+[
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8ßŞà¤1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8ßŞà¤1
+P
+java:S1144"".Remove this unused private "printPlus" method.(°Ñ’‹ıÿÿÿÿ8ÉËà¤1
