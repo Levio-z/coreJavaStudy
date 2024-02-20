@@ -979,3 +979,7 @@ N
 v1ch11/dialog/AboutDialog.java,5\6\5605618143723a5e6c137a6cf73f99dae4c3e8b6
 Q
 !v2ch08/buttons2/action.properties,5\9\59f5fbb02125f84f00655039d23118ef1c046507
+\
+,comsummate/src/spring/StringBuilderTest.java,8\8\888b5ee6667d48136cedcda93449e6167e4ca168
+Y
+)comsummate/src/spring/SysytemIn3m7m1.java,a\7\a75caf0a736dc29c361e9c0b1b3f68a5288d5b75

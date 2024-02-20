@@ -1,3 +1,4 @@
+import java.io.Console;
 import java.util.*;
 
 /**
@@ -19,7 +20,15 @@ public class InputTest
       System.out.print("How old are you? ");
       int age = in.nextInt();
 
+      // get thirst input
+      System.out.print("What is your say? ");
+      String name2 = in.next();
       // display output on console
-      System.out.println("Hello, " + name + ". Next year, you'll be " + (age + 1));
+      System.out.println("Hello, " + name + ". Next year, you'll be " + (age + 1)+"you word is"+name2);
+//      Console cons = System.console();
+//      String username = cons.readLine("User name");
+//      char[] passwd = cons.readPassword("password");
+//      System.out.println(username);
+//      System.out.println(new String(passwd));
    }
 }
