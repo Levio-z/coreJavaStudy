@@ -983,3 +983,9 @@ Q
 ,comsummate/src/spring/StringBuilderTest.java,8\8\888b5ee6667d48136cedcda93449e6167e4ca168
 Y
 )comsummate/src/spring/SysytemIn3m7m1.java,a\7\a75caf0a736dc29c361e9c0b1b3f68a5288d5b75
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+R
+"v1ch03/InputTest/InputExample.java,6\6\66fc93d82d43c96b190c3836e04c2ab91252f13a
+O
+v1ch03/InputTest/FormatOut.java,3\b\3b4fc44b008f485c1363ad031828ac1e0fb2134a
