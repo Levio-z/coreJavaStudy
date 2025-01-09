@@ -1,5 +1,5 @@
-@SuppressWarnings("module")
-module v2ch09.automod 
-{
-   requires commons.csv;
-}
+//@SuppressWarnings("module")
+//module v2ch09.automod
+//{
+//   requires commons.csv;
+//}
